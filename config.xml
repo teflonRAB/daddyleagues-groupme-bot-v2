@@ -2,23 +2,23 @@
 <all>
 	<config>
 		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
+		<league>PHOGO</league>
 		<cmdprefix>!</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
 		<league>The Sim League (TSL)</league>
-		<commish>TheWitt</commish>
-		<rules>https://docs.google.com/document/d/1yghAW1WoDFSyUdkwGFeDsANn8wZsMrBoNK_kfaIvRYU/edit</rules>
-		<draft>9/2 6pm Eastern</draft>
+		<commish>NEL.LOBO.NEL</commish>
+		<rules></rules>
+		<draft></draft>
 		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot-v2</botdev>
-		<web>http://daddyleagues.com/tsl</web>
-		<advance>9/6</advance>
+		<web>http://daddyleagues.com/phogo</web>
+		<advance>10/31</advance>
 		<owners>you can put a link here</owners>
-		<blog>http://daddyleagues.com/tsl/blog</blog>
-		<sportbook>http://daddyleagues.com/tsl/sportbook</sportbook>
-		<forum>http://daddyleagues.com/tsl/forum</forum>
+		<blog>http://daddyleagues.com/phogo/blog</blog>
+		<sportbook>http://daddyleagues.com/phogo/sportbook</sportbook>
+		<forum>http://daddyleagues.com/phogo/forum</forum>
 	</info>
 	<img>
 		<scalp>https://symonsez.files.wordpress.com/2009/08/scalp_edited.jpg</scalp>
@@ -57,7 +57,7 @@
 			<groups>all</groups>
 		</mosquito>
 		<standings>
-			<text>http://daddyleagues.com/tsl/standings</text>
+			<text>http://daddyleagues.com/phogo/standings</text>
 			<groups>all</groups>
 		</standings>
 		<hello>
