@@ -7,7 +7,7 @@ include('./functions.php');
 
 echo "hello";
 
-$bot_token = $mainBot_token;
+$bot_token = $4bc973b62c58247fe69b57b090;
 
 $cont = file_get_contents("php://input");
 $json = json_decode($cont);
